@@ -1,0 +1,10 @@
+c:\Users\FIC\Desktop\BackA\Week_3\DesvioFluxo_W3\bin\Debug\netcoreapp2.0\DesvioFluxo_W3.deps.json
+c:\Users\FIC\Desktop\BackA\Week_3\DesvioFluxo_W3\bin\Debug\netcoreapp2.0\DesvioFluxo_W3.runtimeconfig.json
+c:\Users\FIC\Desktop\BackA\Week_3\DesvioFluxo_W3\bin\Debug\netcoreapp2.0\DesvioFluxo_W3.runtimeconfig.dev.json
+c:\Users\FIC\Desktop\BackA\Week_3\DesvioFluxo_W3\bin\Debug\netcoreapp2.0\DesvioFluxo_W3.dll
+c:\Users\FIC\Desktop\BackA\Week_3\DesvioFluxo_W3\bin\Debug\netcoreapp2.0\DesvioFluxo_W3.pdb
+c:\Users\FIC\Desktop\BackA\Week_3\DesvioFluxo_W3\obj\Debug\netcoreapp2.0\DesvioFluxo_W3.csproj.CoreCompileInputs.cache
+c:\Users\FIC\Desktop\BackA\Week_3\DesvioFluxo_W3\obj\Debug\netcoreapp2.0\DesvioFluxo_W3.AssemblyInfoInputs.cache
+c:\Users\FIC\Desktop\BackA\Week_3\DesvioFluxo_W3\obj\Debug\netcoreapp2.0\DesvioFluxo_W3.AssemblyInfo.cs
+c:\Users\FIC\Desktop\BackA\Week_3\DesvioFluxo_W3\obj\Debug\netcoreapp2.0\DesvioFluxo_W3.dll
+c:\Users\FIC\Desktop\BackA\Week_3\DesvioFluxo_W3\obj\Debug\netcoreapp2.0\DesvioFluxo_W3.pdb
