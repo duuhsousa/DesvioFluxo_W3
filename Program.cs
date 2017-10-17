@@ -20,7 +20,7 @@ namespace DesvioFluxo_W3
                     k=6;
                     h=10;
                     Console.WriteLine();
-                }
+                } 
             }
             Console.WriteLine();
         }
